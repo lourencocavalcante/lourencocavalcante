@@ -23,7 +23,7 @@
 
 ---
 
-### 🎯 Fluent in programming languages and business language
+### 🎯 Apaixonado por códigos
 
 Olá! 👋
 

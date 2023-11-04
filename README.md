@@ -56,11 +56,10 @@ Eu sou Lourenço, Teacher, dev full-stack, criativo, 🎓Mestrando em Computaç�
 
 <h3 align="left">GitHub Stats</h3>
 
-<div align="left">
-	<a href="https://github.com/lourencocavalcante/LourencoCavalcanteCode/github-readme-stats" target = "_blank">
-		<img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lourencocavalcante&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly">
-	</a>
-	<img alt="Top Langs" height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lourencocavalcante&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832">
+<div>
+<a href="https://github.com/lourencocavalcante">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourencocavalcante&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lourencocavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">

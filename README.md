@@ -27,7 +27,7 @@
 
 Olá! 👋
 
-Eu sou Lourenço, Teacher, dev full-stack, criativo, 🎓Mestrando em Computação Apliacada e graduado em Computação. Apaixonado por código, sou especialista em soluções Web e Inteligência Artificial.
+Eu sou Lourenço, teacher, dev full-stack, criativo, 🎓mestrando em Computação Aplicada e graduado em Computação. Apaixonado por código, sou especialista em soluções Web e Inteligência Artificial (IA).
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -35,7 +35,7 @@ Eu sou Lourenço, Teacher, dev full-stack, criativo, 🎓Mestrando em Computaç�
 
 ![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-E7ECEB?style=for-the-badge&logo=php)&nbsp;
-![PHP](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=Python)&nbsp;
+![Python](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=Python)&nbsp;
 
 ### 🎨 &nbsp;Front-end
 

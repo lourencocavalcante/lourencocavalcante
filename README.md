@@ -34,6 +34,7 @@ Eu sou Lourenço, Teacher, dev full-stack, criativo, 🎓Mestrando em Computaç�
 ### 👩‍💻 &nbsp;Back-End
 
 ![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-E7ECEB?style=for-the-badge&logo=php&logoColor=53D9A2)&nbsp;
 
 ### 🎨 &nbsp;Front-end
 

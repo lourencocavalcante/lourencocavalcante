@@ -23,7 +23,7 @@
 
 ---
 
-### 🎯 Apaixonado por códigos
+### 🎯 Programar é minha paixão; é a maneira como dou vida às minhas ideias, embora seja mais difícil lê-lo do que escrevê-lo.
 
 Olá! 👋
 

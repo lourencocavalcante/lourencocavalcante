@@ -56,8 +56,6 @@ Eu sou Lourenço, teacher, dev full-stack, criativo, 🎓mestrando em Computaç�
 
 ## 📊 &nbsp;Stats
 
-<h3 align="left">GitHub Stats</h3>
-
 <div>
 <a href="https://github.com/lourencocavalcante">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourencocavalcante&layout=compact&langs_count=7&theme=dracula"/>

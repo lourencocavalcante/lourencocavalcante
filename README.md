@@ -28,7 +28,7 @@
 
 Olá! 👋
 
-Eu sou Lourenço, teacher, dev full-stack, criativo, 🎓mestrando em Computação Aplicada e graduado em Computação. Apaixonado por código, sou especialista em soluções Web e Inteligência Artificial (IA).
+Eu sou Lourenço, teacher, dev full-stack, criativo, 🎓Mestre em Computação Aplicada e graduado em Computação. Apaixonado por código, sou especialista em soluções Web e Inteligência Artificial (IA).
 
 ## 🛠 &nbsp;Tech Stack
 

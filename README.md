@@ -24,11 +24,11 @@
 
 ---
 
-### 🎯 Programar é minha paixão; é a maneira como dou vida às minhas ideias, embora seja mais difícil ler os códigos do que escrevê-los.
+### 🎯 Programming is my passion; it's how I bring my ideas to life, even though it's harder to read the code than to write it..
 
-Olá! 👋
+Hello! 👋
 
-Eu sou Lourenço, teacher, dev full-stack, criativo, 🎓Mestre e Doutorando em Computação Aplicada com concentração em Inteligência Artificial para Aplicações Espaciais e Graduado em Computação. Apaixonado por código!
+I'm Lourenço, a teacher, full-stack developer, creative, 🎓Master's and PhD candidate in Applied Computing with a concentration in Artificial Intelligence for Spatial Applications, and a Bachelor's degree in Computer Science. I'm passionate about coding!
 
 ## 🛠 &nbsp;Tech Stack
 

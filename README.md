@@ -24,11 +24,11 @@
 
 ---
 
-### 🎯 Programming is my passion; it's how I bring my ideas to life, even though it's harder to read the code than to write it..
+## 🎯 Programming is my passion; it's how I bring my ideas to life, even though it's harder to read the code than to write it.
 
-Hello! 👋
+## Hello! 👋
 
-I'm Lourenço, a teacher, full-stack developer, creative, 🎓Master's and PhD candidate in Applied Computing with a concentration in Artificial Intelligence for Spatial Applications, and a Bachelor's degree in Computer Science. I'm passionate about coding!
+## I'm Lourenço, a teacher, full-stack developer, creative, 🎓Master's and PhD candidate in Applied Computing with a concentration in Artificial Intelligence for Spatial Applications, and a Bachelor's degree in Computer Science. I'm passionate about coding!
 
 ## 🛠 &nbsp;Tech Stack
 

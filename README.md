@@ -1,88 +1,100 @@
 <h1 align="center">
-  Hello World, I'm Lourenço Cavalcante 👋
+  👋 Hello World, I'm Lourenço Cavalcante
 </h1>
 
 <div align="center">
-<!--<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/> -->
-<img height="280em" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"/>
-  
-
-  
+  <img height="250em" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"/>
 </div>
 
-<div align="center">
-<p>
-<a href="https://lourencocavalcante.github.io/">
-My page
-</a>
+<p align="center">
+  <a href="https://lourencocavalcante.github.io/">🌐 My Portfolio</a> • 
+  <a href="mailto:lourenco.cavalcante@ifto.edu.br">📧 Contact Me</a>
 </p>
-</div>
 
 <h3 align="center">
-  Teacher • FullStack Developer
+  🎓 PhD Candidate in Applied Computing | 🍎 Teacher | 💻 FullStack Developer
 </h3>
 
-<div align="center">
-<p>
-<a href="mailto:lourenco.cavalcante@ifto.edu.br.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
-</a>
+<p align="center">
+  <strong>Specializing in Artificial Intelligence for Spatial Applications</strong>
 </p>
+
+<div align="center">
+  <a href="mailto:lourenco.cavalcante@ifto.edu.br">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ---
 
-## 🎯 Programming is my passion; it's how I bring my ideas to life, even though it's harder to read the code than to write it.
+### 🎯 About Me
 
-## Hello! 👋
+"Programming is my passion; it's how I bring my ideas to life."
 
-## I'm Lourenço, a teacher, full-stack developer, creative, 🎓Master's and PhD candidate in Applied Computing with a concentration in Artificial Intelligence for Spatial Applications, and a Bachelor's degree in Computer Science. I'm passionate about coding!
+I'm a dedicated educator and researcher currently pursuing a **PhD in Applied Computing**. My work bridges the gap between software development and complex spatial data analysis using **Artificial Intelligence**.
 
-## 🛠 &nbsp;Tech Stack
+---
 
-### 👩‍💻 &nbsp;Back-End
+### 🛠 Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-E7ECEB?style=for-the-badge&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=Python)&nbsp;
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>👩‍💻 Back-End & Data Science</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" />
+      <img src="https://img.shields.io/badge/Rasterio-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🎨 Front-End & Design</h4>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚡ Database</h4>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🚀 Tools</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-### 🎨 &nbsp;Front-end
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
-![React](https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
+### 📊 Stats
 
-### ⚡ &nbsp;Database
-
-
-![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
-
-
-
-<!-- YT LIST END -->
-
-
-
-## 📊 &nbsp;Stats
-
-<div>
-<a href="https://github.com/lourencocavalcante">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourencocavalcante&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lourencocavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourencocavalcante&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lourencocavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lourencocavalcante&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<details align="left">
-  <summary>Credits</summary> 
-  - Badges by <a href="https://shields.io/">shields.io</a>
-  <br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  <br>
-   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
-  <br>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
-</details>
+---
 
+<details>
+  <summary><b>Credits & Acknowledgments</b></summary>
+  <ul>
+    <li>Badges: <a href="https://shields.io/">Shields.io</a></li>
+    <li>Stats: <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></li>
+    <li>Streak: <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Streak Stats</a></li>
+  </ul>
+</details>
